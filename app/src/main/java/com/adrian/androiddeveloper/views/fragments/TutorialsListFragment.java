@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.adrian.androiddeveloper.R;
+import com.adrian.androiddeveloper.views.utils.FragmentParams;
 
 /**
  * Created by Adrian on 2016-02-25.
